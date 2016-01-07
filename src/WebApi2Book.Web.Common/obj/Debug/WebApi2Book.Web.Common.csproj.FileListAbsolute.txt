@@ -1,0 +1,15 @@
+C:\Users\feliper\Dropbox\Projetos\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\WebApi2Book.Web.Common.dll
+C:\Users\feliper\Dropbox\Projetos\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\WebApi2Book.Web.Common.pdb
+C:\Users\feliper\Dropbox\Projetos\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\Iesi.Collections.dll
+C:\Users\feliper\Dropbox\Projetos\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\log4net.dll
+C:\Users\feliper\Dropbox\Projetos\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\NHibernate.dll
+C:\Users\feliper\Dropbox\Projetos\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\Ninject.dll
+C:\Users\feliper\Dropbox\Projetos\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\Ninject.Web.Common.dll
+C:\Users\feliper\Dropbox\Projetos\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\Iesi.Collections.xml
+C:\Users\feliper\Dropbox\Projetos\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\log4net.xml
+C:\Users\feliper\Dropbox\Projetos\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\NHibernate.xml
+C:\Users\feliper\Dropbox\Projetos\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\Ninject.xml
+C:\Users\feliper\Dropbox\Projetos\WebApi2Book\src\WebApi2Book.Web.Common\bin\Debug\Ninject.Web.Common.xml
+C:\Users\feliper\Dropbox\Projetos\WebApi2Book\src\WebApi2Book.Web.Common\obj\Debug\WebApi2Book.Web.Common.csprojResolveAssemblyReference.cache
+C:\Users\feliper\Dropbox\Projetos\WebApi2Book\src\WebApi2Book.Web.Common\obj\Debug\WebApi2Book.Web.Common.dll
+C:\Users\feliper\Dropbox\Projetos\WebApi2Book\src\WebApi2Book.Web.Common\obj\Debug\WebApi2Book.Web.Common.pdb
