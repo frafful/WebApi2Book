@@ -3,3 +3,7 @@ C:\Users\feliper\Dropbox\Projetos\WebApi2Book\src\WebApi2Book.Data\bin\Debug\Web
 C:\Users\feliper\Dropbox\Projetos\WebApi2Book\src\WebApi2Book.Data\obj\Debug\WebApi2Book.Data.csprojResolveAssemblyReference.cache
 C:\Users\feliper\Dropbox\Projetos\WebApi2Book\src\WebApi2Book.Data\obj\Debug\WebApi2Book.Data.dll
 C:\Users\feliper\Dropbox\Projetos\WebApi2Book\src\WebApi2Book.Data\obj\Debug\WebApi2Book.Data.pdb
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\WebApi2Book\src\WebApi2Book.Data\bin\Debug\WebApi2Book.Data.dll
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\WebApi2Book\src\WebApi2Book.Data\bin\Debug\WebApi2Book.Data.pdb
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\WebApi2Book\src\WebApi2Book.Data\obj\Debug\WebApi2Book.Data.dll
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\WebApi2Book\src\WebApi2Book.Data\obj\Debug\WebApi2Book.Data.pdb

@@ -60,4 +60,15 @@
     <Folder Include="Scripts" />
     <Folder Include="Tables" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Scripts\ReferenceData.sql" />
+    <None Include="Scripts\TestData.sql" />
+    <Build Include="Tables\Status.sql" />
+    <Build Include="Tables\Task.sql" />
+    <Build Include="Tables\User.sql" />
+    <Build Include="Tables\TaskUser.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <PostDeploy Include="Scripts\Script.PostDeployment.sql" />
+  </ItemGroup>
 </Project>

@@ -3,3 +3,7 @@ C:\Users\feliper\Dropbox\Projetos\WebApi2Book\src\WebApi2Book.Data.SqlServer.Int
 C:\Users\feliper\Dropbox\Projetos\WebApi2Book\src\WebApi2Book.Data.SqlServer.IntegrationTests\obj\Debug\WebApi2Book.Data.SqlServer.IntegrationTests.csprojResolveAssemblyReference.cache
 C:\Users\feliper\Dropbox\Projetos\WebApi2Book\src\WebApi2Book.Data.SqlServer.IntegrationTests\obj\Debug\WebApi2Book.Data.SqlServer.IntegrationTests.dll
 C:\Users\feliper\Dropbox\Projetos\WebApi2Book\src\WebApi2Book.Data.SqlServer.IntegrationTests\obj\Debug\WebApi2Book.Data.SqlServer.IntegrationTests.pdb
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\WebApi2Book\src\WebApi2Book.Data.SqlServer.IntegrationTests\bin\Debug\WebApi2Book.Data.SqlServer.IntegrationTests.dll
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\WebApi2Book\src\WebApi2Book.Data.SqlServer.IntegrationTests\bin\Debug\WebApi2Book.Data.SqlServer.IntegrationTests.pdb
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\WebApi2Book\src\WebApi2Book.Data.SqlServer.IntegrationTests\obj\Debug\WebApi2Book.Data.SqlServer.IntegrationTests.dll
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\WebApi2Book\src\WebApi2Book.Data.SqlServer.IntegrationTests\obj\Debug\WebApi2Book.Data.SqlServer.IntegrationTests.pdb

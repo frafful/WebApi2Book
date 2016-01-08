@@ -7,3 +7,11 @@ C:\Users\feliper\Dropbox\Projetos\WebApi2Book\src\WebApi2Book.Common\bin\Debug\l
 C:\Users\feliper\Dropbox\Projetos\WebApi2Book\src\WebApi2Book.Common\obj\Debug\WebApi2Book.Common.csprojResolveAssemblyReference.cache
 C:\Users\feliper\Dropbox\Projetos\WebApi2Book\src\WebApi2Book.Common\obj\Debug\WebApi2Book.Common.dll
 C:\Users\feliper\Dropbox\Projetos\WebApi2Book\src\WebApi2Book.Common\obj\Debug\WebApi2Book.Common.pdb
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\WebApi2Book\src\WebApi2Book.Common\bin\Debug\WebApi2Book.Common.dll
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\WebApi2Book\src\WebApi2Book.Common\bin\Debug\WebApi2Book.Common.pdb
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\WebApi2Book\src\WebApi2Book.Common\bin\Debug\AutoMapper.dll
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\WebApi2Book\src\WebApi2Book.Common\bin\Debug\log4net.dll
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\WebApi2Book\src\WebApi2Book.Common\bin\Debug\AutoMapper.xml
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\WebApi2Book\src\WebApi2Book.Common\bin\Debug\log4net.xml
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\WebApi2Book\src\WebApi2Book.Common\obj\Debug\WebApi2Book.Common.dll
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\WebApi2Book\src\WebApi2Book.Common\obj\Debug\WebApi2Book.Common.pdb
